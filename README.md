@@ -27,7 +27,8 @@ This app supports authentication, real-time messaging, online status, and demons
 
 
 🧪 Environment Variables (.env)
-- Backend (/backend/.env)
+(/backend/.env)
+
 | Variable              | Description                                      |
 | --------------------- | ------------------------------------------------ |
 | MONGODB_URI           | MongoDB connection string                        |
